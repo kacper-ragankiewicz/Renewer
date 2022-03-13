@@ -70,3 +70,14 @@ W ten sposób migrujemy moduły do bazy danych.
 
 Wyświetla się panel do Admina, logujemy sie za pomocą podanych wczesnie danych. 
 
+
+
+BIBLIOGRAFIA: 
+
+```
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
+```
