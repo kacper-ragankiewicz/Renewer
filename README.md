@@ -1,7 +1,7 @@
 HOW TO: 
 
 1. Pobierz projekt za pomocą git clone do folderu w którym ma się znajdować:
-    
+
 
     cd <nazwa folderu>
 
