@@ -4,6 +4,7 @@ HOW TO:
     
 
     cd <nazwa folderu>
+
     git clone https://github.com/kacper-ragankiewicz/Renewer.git 
 
 
@@ -11,6 +12,7 @@ HOW TO:
 
 
     cd \Renewer 
+
 
 2.1 Stawiamy nowe wirtualne środowisko inaczej interpreter. 
 
@@ -39,7 +41,9 @@ HOW TO:
 
 3.1 Jeśli nie posiadasz postawionej bazy danych o tej nazwie w postgresie, staiwamy za pomocą: 
     
+
     https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
+
 
 4. Kiedy mamy już podłączoną baze danych do projektu, używamy:
     
@@ -47,6 +51,7 @@ HOW TO:
     python manage.py makemigrations
 
     python manage.py migrate 
+
 
 W ten sposób migrujemy moduły do bazy danych.
 
