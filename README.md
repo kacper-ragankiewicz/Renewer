@@ -36,6 +36,7 @@ HOW TO:
         'PORT': '5432',
     }
 
+
 3.1 Jeśli nie posiadasz postawionej bazy danych o tej nazwie w postgresie, staiwamy za pomocą: 
     
     https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
